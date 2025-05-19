@@ -5,7 +5,7 @@
   "language": "eng",
   "upload_type": "software",
   "access_right": "open",
-  "version": "48d3061",
+  "version": "28f7fec",
   "publication_date": "2025-05-19",
   "creators": [
     {
@@ -15,7 +15,7 @@
       "type": "Author"
     }
   ],
-  "keywords": ["AI","Education","Healthcare","Post-Quantum Cryptography","Quantum","opensource","software"],
+  "keywords": ["AI","Education","Healthcare","Post-Quantum Cryptography","Quantum","data science","machine learning","python"],
   "related_identifiers": [
     { "identifier": "https://github.com/qompassai/astro", "relation": "isSupplementTo", "resource_type": "software" },
     { "identifier": "https://github.com/qompassai/astro/releases/tag/v2025-05-19", "relation": "isIdenticalTo", "resource_type": "software" },
