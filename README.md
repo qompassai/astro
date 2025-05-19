@@ -1,21 +1,21 @@
-<!-- /qompassai/nuxtjs/README.md -->
+<!-- /qompassai/astro/README.md -->
 <!-- ---------------------------- -->
 <!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
 
-<h2> Nuxt.js: For "vue"tiful JS   </h2>
+<h2> Astro: When SEO and overhead matter </h2>
 
-<h3> Qompass AI on Nuxt </h3>
+<h3> Qompass AI on Astro </h3>
 
-![Repository Views](https://komarev.com/ghpvc/?username=qompassai-nuxtjs)
-  <a href="https://nuxt.com/">
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js">
+![Repository Views](https://komarev.com/ghpvc/?username=qompassai-astro)
+  <a href="https://astro.build/">
+  <img src="https://img.shields.io/badge/Astro-1B2838?style=for-the-badge&logo=astro&logoColor=F5BC51" alt="Astro">
 </a>
 <br>
-<a href="https://nuxt.com/docs">
-  <img src="https://img.shields.io/badge/Nuxt_Documentation-blue?style=flat-square" alt="Nuxt.js Documentation">
+<a href="https://docs.astro.build/">
+  <img src="https://img.shields.io/badge/Astro_Documentation-blue?style=flat-square" alt="Astro Documentation">
 </a>
-<a href="https://nuxt.com/blog">
-  <img src="https://img.shields.io/badge/Nuxt_Tutorials-green?style=flat-square" alt="Nuxt.js Tutorials">
+<a href="https://docs.astro.build/en/tutorial/">
+  <img src="https://img.shields.io/badge/Astro_Tutorials-green?style=flat-square" alt="Astro Tutorials">
 </a>
 <br>
   <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3"></a>
