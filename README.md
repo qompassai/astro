@@ -7,6 +7,7 @@
 <h3> Qompass AI on Astro </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-astro)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/astro/total?style=flat-square)
   <a href="https://astro.build/">
   <img src="https://img.shields.io/badge/Astro-1B2838?style=for-the-badge&logo=astro&logoColor=F5BC51" alt="Astro">
 </a>
